@@ -7,9 +7,7 @@ The code consists of following collective variables (CVs):
 - Wall CVs for growth prevention: ZpyXY.cpp
 
 If you use these CVs, please cite following papers:
-
-Solubility prediction of organic molecules with molecular dynamics simulations;
-- Z Bjelobrk, D Mendels, T Karmakar, M Parrinello, M Mazzotti; Crystal Growth & Design 21 (9), 5198-5205. https://doi.org/10.1021/acs.cgd.1c00546
+- Solubility prediction of organic molecules with molecular dynamics simulations; Z Bjelobrk, D Mendels, T Karmakar, M Parrinello, M Mazzotti; Crystal Growth & Design 21 (9), 5198-5205. https://doi.org/10.1021/acs.cgd.1c00546
 - Solubility of Organic Salts in Solvent–Antisolvent Mixtures: A Combined Experimental and Molecular Dynamics Simulations Approach; Z Bjelobrk, AK Rajagopalan, D Mendels, T Karmakar, M Parrinello, M. Mazzotti; Journal of Chemical Theory and Computation 18 (8), 4952-4959 https://doi.org/10.1021/acs.jctc.2c00304
 
 Please cite Plumed as described here: https://www.plumed.org/cite;
